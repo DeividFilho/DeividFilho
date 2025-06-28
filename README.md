@@ -13,8 +13,7 @@ During my four years in robotics, I discovered a strong passion for programming 
 </p>
 
 <p>
-    After achieving first place in two robotics national competitions (Competição Brasileira de Robótica 2021/2022) I started focusing more in open source contributions and exploring new areas.
-    I'm currently developping my skills on firmware engineering, working mainly with freeRTOS, as well as IoT connectivity.
+    
 </p>
 
 ### Here are some of my skills
