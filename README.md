@@ -20,3 +20,6 @@ I'm actively pursuing international recognition in robotics, with the goal of co
 ![](https://skillicons.dev/icons?i=py,git,github,arduino,notion,vscode)
 ![](https://go-skill-icons.vercel.app/api/icons?i=excel,titles=true)
 
+### Minhas equipes
+![](http://github.com/DeividFilho/My-Robots/blob/main/CARIMBOTICOS%20(1).png)
+
