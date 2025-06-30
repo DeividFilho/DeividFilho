@@ -21,5 +21,6 @@ I'm actively pursuing international recognition in robotics, with the goal of co
 ![](https://go-skill-icons.vercel.app/api/icons?i=excel,titles=true)
 
 ### Minhas equipes
-![](http://github.com/DeividFilho/My-Robots/blob/main/CARIMBOTICOS%20(1).png)
+![](https://github.com/DeividFilho/EQUPES/blob/main/Design%20sem%20nome%20(1).png)
+![](https://github.com/DeividFilho/EQUPES/blob/main/Design%20sem%20nome%20(3).png)
 
