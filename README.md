@@ -34,7 +34,7 @@ src="https://github-readme-stats.vercel.app/api?username=DeividFilho&show_icons=
 <img 
 align="left" 
 alt="Top Langs" 
-height="150" 
+height="135" 
 style="padding-right: 10px;" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividFilho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
 />
