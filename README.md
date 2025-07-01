@@ -24,3 +24,14 @@ I'm actively pursuing international recognition in robotics, with the goal of co
 ![](https://github.com/DeividFilho/EQUPES/blob/main/Design%20sem%20nome%20(1).png)
 ![](https://github.com/DeividFilho/EQUPES/blob/main/Design%20sem%20nome%20(3).png)
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=DeividFilho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+</p>
+
+
