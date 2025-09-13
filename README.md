@@ -17,7 +17,7 @@ I'm actively pursuing international recognition in robotics, with the goal of co
 </p>
 
 ### Here are some of my skills
-![](https://skillicons.dev/icons?i=py,git,github,arduino,notion,vscode)
+![](https://skillicons.dev/icons?i=py,git,github,arduino,notion,vscode,dart,flutter)
 ![](https://go-skill-icons.vercel.app/api/icons?i=excel,titles=true)
 
 ### my teams
